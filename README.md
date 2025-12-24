@@ -2,7 +2,7 @@
 
 A powerful, modular CLI tool for analyzing network packet captures (PCAP files) and detecting suspicious activities such as phishing, data exfiltration, DNS tunneling, and more.
 
-## 🚀 Features
+## Features
 
 ### Protocol Parsers
 - **PCAP Parser**: Load and analyze packet capture files
@@ -41,6 +41,6 @@ A powerful, modular CLI tool for analyzing network packet captures (PCAP files) 
   - C2 communication patterns
   - Beaconing behavior detection
 
-## 📦 Installation
+## Installation
 
 ### Using pip (Recommended)
