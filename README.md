@@ -40,7 +40,3 @@ A powerful, modular CLI tool for analyzing network packet captures (PCAP files) 
   - Port scanning identification
   - C2 communication patterns
   - Beaconing behavior detection
-
-## Installation
-
-### Using pip (Recommended)
